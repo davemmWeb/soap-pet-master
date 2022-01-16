@@ -1,0 +1,151 @@
+:root {
+    --color-negro: #1b1b1b;
+    --color-blanco: #ffffff;
+    --color-aguaMarina: rgb(42, 140, 153);
+    --color-gris: grey;
+    --color-amarillo: rgb(196, 189, 92);
+    --color-verde: green;
+    --color-blancoTransparente: rgba(175, 175, 175, 0.3);
+}
+a{
+    text-decoration: none;
+}
+
+body{
+    background: url("/img/fondo-productos.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    
+}
+
+/*-----------estilos header ----------- */
+.header{
+    width: 100%;
+    height: 10px;
+}
+.logo{
+    width: 10%;
+    margin-left: 2%;    
+}
+.menu{
+    position: absolute;
+    width: 50%;
+    left: 600px;
+    top: 40px;
+}
+.menu li{ 
+    font-family: 'Gloria Hallelujah', cursive;     
+    color: var(--color-negro);    
+    margin-right: 5%;
+    list-style: none;
+    font-size: 22px;    
+    display: inline;
+    padding: 10px;  
+    cursor: pointer; 
+}
+.menu li:hover {
+    color: var(--color-aguaMarina);    
+}
+.resaltar{    
+    background: var(--color-amarillo);
+}
+.carrito img{
+    position: absolute;
+    width: 6%;
+    left: 1230px;
+    top: 20px;
+    cursor: pointer;
+}
+
+/* ---------------estilos titulo--------------- */
+
+.titulo{
+    position: absolute;
+    width: 30%;
+    height: 100px;
+    left: 43%;
+    top: 17%;
+}
+.titulo h2{
+    color: var(--color-gris);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.linea{
+    position: absolute;
+    left: 46%;
+    top: 26%;
+    width: 10%;
+    height: 5px;
+    background: yellowgreen;
+}
+/* ---------------------categorias Productos--------------------- */
+
+h2{
+    font-family: 'Gloria Hallelujah', cursive;
+    float: left;
+    color: var(--color-aguaMarina);
+    margin-left: 4%;
+}
+.categorias{
+    background: var(--color-blancoTransparente);
+    position: absolute;
+    width: 80%;
+    height: 25%;
+    top: 35%;
+    left: 10%;
+        
+}
+.imgGatos{
+    cursor: pointer;
+    width: 50%; 
+    height: 80%; 
+    margin-top: 6%;
+}
+.gatos{
+    
+    background: rgb(186, 217, 228);
+    float: left;
+    width: 25%;
+    height: 100%;
+}
+.imgPerros{
+    cursor: pointer;
+    width: 58%; 
+    height: 88%;
+    margin-top: 6%; 
+}
+.perros{
+    
+    background: rgb(235, 164, 164);
+    float: left;
+    width: 25%;
+    height: 100%;
+}
+.imgAseo{
+    cursor: pointer;
+    width: 55%; 
+    height: 85%; 
+    margin-top: 6%;
+}
+.aseo{
+    
+    background: rgb(162, 235, 162);
+    float: left;
+    width: 25%;
+    height: 100%;
+}
+.accesorios{
+    
+    background: rgb(150, 173, 196);
+    float: left;
+    width: 25%;
+    height: 100%;
+}
+.imgAcces{
+    cursor: pointer;
+    width: 55%; 
+    height: 85%; 
+    margin-top: 6%;
+}
