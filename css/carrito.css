@@ -61,67 +61,67 @@ header{
     margin-top: 12%;    
 }
 
-/* -----------estilos del titulo----------- */
-
-.titulo{
+.containerProductos{
     position: absolute;
-    width: 100%;
-    font-family: 'Gloria Hallelujah', cursive;
-    color: var(--color-aguaMarina);
-    margin-top: 15%;
-    text-align: center;
-    font-size: 30px;
-}
-/* -----------estilos imagenes productos----------- */
-.productos{
-    position: absolute;    
-    width: 100%;     
-    margin-top: 22%;  
-      
-}
-.producto{
-    float: left;
-    background: var(--color-blanco);
-    border: #928e8e solid 1px;    
-    width: 14%;
-    height: 20%;   
-    margin-left: 8%; 
-    margin-top: 2%;    
-    text-align: center;
-}
-.info strong{
-    background: var(--color-blancoTransparente);
-    color: #686363;
+    width: 80%;
+    top: 25%;
+    left: 10%;
+    background-color: rgba(116, 113, 113, 0.3);
+    height: 60%;
+    box-shadow: 2px 2px 2px 2px rgb(129, 122, 122);
     
 }
-.precio span{ 
-    background: #ffffff;     
-    margin-left: 10px;
+.estadoProducto{
+    display: flex;
+    margin-top: 10px;    
+}
+.productoSeleccionado{
+    margin-left: 10%;
     color: var(--color-aguaMarina);
-    font-family: fantasy;
-    font-size: 25px;
-    top: 40px;
 
 }
-.precio .desde{
-    margin: 0;
-    color: var(--color-gris);
-    width: 50px;
-    font-size: 15px;
-    margin-left: 20px;
-    background: white;
+
+.productos{  
+    position: absolute;
+    margin-left: 4%; 
+    margin-top: 4%;    
+    width: 90%;
+    background: var(--color-blanco);
+    border: #928e8e solid 1px;    
+    height: auto;     
 }
-.agregarCarrito{    
-    width: 80%;
-    margin: auto;
-    padding-top: 5%;
-    padding-bottom: 5%;
+.producto{
+    width: 20%;
+    text-align: center;
 }
-.agregarCarrito button{
-    background-color: var(--color-aguaMarina);
-    text-decoration: none;
-    color: var(--color-blanco);
-    border: none;
-    cursor: pointer;
+.producto img{
     width: 90%;
 }
+.producto h2,p{
+    color: #3b3939;
+    font-family: 'Gloria Hallelujah', cursive;
+}
+
+.pago{
+    position: absolute;
+    top: 75%; 
+    margin-left: 4%;       
+}
+.total{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #3b3939;
+    width: 10%;
+}
+.botonPago{
+    float: right;
+    margin-left: 900px;    
+    border-color: #ffffff;
+    border-radius: 10px;
+    width: 20%;
+    height: 30px;
+    background: rgb(24, 156, 245);
+    cursor: pointer;
+}
+
+
+

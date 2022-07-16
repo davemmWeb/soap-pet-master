@@ -1,0 +1,107 @@
+{
+    "data": [
+      {
+        "img": "/imgProductos/chunkyDelidogDent.png",
+        "info": "Deli Dog Dent",
+        "precio": "33.600"
+      },
+      {
+        "img": "/imgProductos/chunkyDelidogMix.png",
+        "info": "Deli Dog Mix",
+        "precio": "33.600"
+      },
+      {
+        "img": "/imgProductos/AgilityGranAdul.jpg",
+        "info": "Agility Grandes Adult.",
+        "precio": "33.600"
+      },
+      {
+        "img": "/imgProductos/agilityGrandesCacho.jpg",
+        "info": "Agility Grandes Cacho.",
+        "precio": "33.600"
+      },
+      {
+        "img": "/imgProductos/agilityPeqAdul.jpg",
+        "info": "Agility Peq. Adult.",
+        "precio": "33.600"
+      },
+      {
+        "img": "/imgProductos/agilityPequeCacho.jpg",
+        "info": "Agility Peq. Cacho.",
+        "precio": "33.600"
+      },
+      {
+        "img": "/imgProductos/chunkyAdulPollo.jpg",
+        "info": "Chunky Pollo",
+        "precio": "33.600"
+      },
+      {
+        "img": "/imgProductos/chunkyCachorros.jpg",
+        "info": "Chunky Cachorros",
+        "precio": "33.600"
+      },
+      {
+        "img": "/imgProductos/chunkyCordero.jpg",
+        "info": "Chunky Cordero",
+        "precio": "33.600"
+      },
+      {
+        "img": "/imgProductos/Dog Chow peq.adu.jfif",
+        "info": "Dog Chow",
+        "precio": "33.600"
+      },
+      {
+        "img": "/imgProductos/dogChowAduGran.png",
+        "info": "Dog Chow Adulto",
+        "precio": "33.600"
+      },
+      {
+        "img": "/imgProductos/dogChowAduPeq.jpg",
+        "info": "Dog Chow Adul. Peq.",
+        "precio": "33.600"
+      },
+      {
+        "img": "/imgProductos/dogChowCachoMini.png",
+        "info": "Dog Chow Cach. Mini",
+        "precio": "33.600"
+      },
+      {
+        "img": "/imgProductos/Nutrecan_Adult._Razas_Pequ..png",
+        "info": "Nutre Can Adult",
+        "precio": "33.600"
+      },
+      {
+        "img": "/imgProductos/nutreCanCroqAdul.jpg",
+        "info": "Nutre Can Croquetas",
+        "precio": "33.600"
+      },
+      {
+        "img": "/imgProductos/ringoCroquetas.jpg",
+        "info": "Ringo Croquetas",
+        "precio": "33.600"
+      },
+      {
+        "img": "/imgProductos/ringoPremium.jpg",
+        "info": "Nutriss Pollo",
+        "precio": "33.600"
+      },
+      {
+        "img": "/imgProductos/promocion nutre can.jfif",
+        "info": "Nutre Can Croque.",
+        "precio": "33.600"
+      },
+      {
+        "img": "/imgProductos/chunkyGatosCordero.png",
+        "info": "Chunky Gatos Cor.",
+        "precio": "33.600"
+      },
+      {
+        "img": "/imgProductos/monello.png",
+        "info": "Monello",
+        "precio": "33.600"
+      }
+    ]
+  }
+  
+  
+  

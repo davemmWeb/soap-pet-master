@@ -1,0 +1,106 @@
+{
+  "data": [
+    {
+      "img": "/imgProductos/AgilityGatitos.png",
+      "info": "Agility Gatitos",
+      "precio": "33.600"
+    },
+    {
+      "img": "/imgProductos/agilityGatos.jpg",
+      "info": "Agility Gatos",
+      "precio": "33.600"
+    },
+    {
+      "img": "/imgProductos/catChow.jpg",
+      "info": "Cat Chow",
+      "precio": "33.600"
+    },
+    {
+      "img": "/imgProductos/CatChowActiv.jpg",
+      "info": "Cat Chow Activos",
+      "precio": "33.600"
+    },
+    {
+      "img": "/imgProductos/chunkyDelicaprichosGatos.jpg",
+      "info": "Delicaprichos",
+      "precio": "33.600"
+    },
+    {
+      "img": "/imgProductos/chunkyGatitosUrin.jpg",
+      "info": "Chunky Gatitos Uri.",
+      "precio": "33.600"
+    },
+    {
+      "img": "/imgProductos/chunkyGatos.jpg",
+      "info": "Chunky Gatos",
+      "precio": "33.600"
+    },
+    {
+      "img": "/imgProductos/chunkyGatosCuidUrin.jpg",
+      "info": "Chunky Gatos Cuid. Urin.",
+      "precio": "33.600"
+    },
+    {
+      "img": "/imgProductos/Felix Lata.png",
+      "info": "Felix lata",
+      "precio": "33.600"
+    },
+    {
+      "img": "/imgProductos/FelixPavo.png",
+      "info": "Felix pavo",
+      "precio": "33.600"
+    },
+    {
+      "img": "/imgProductos/gatsy.jpg",
+      "info": "Gatsy",
+      "precio": "33.600"
+    },
+    {
+      "img": "/imgProductos/mirringo.jpg",
+      "info": "Mirringo",
+      "precio": "33.600"
+    },
+    {
+      "img": "/imgProductos/mirringoGatitos.png",
+      "info": "Mirringo Gatitos",
+      "precio": "33.600"
+    },
+    {
+      "img": "/imgProductos/nutre-cat-liberty.jpg",
+      "info": "Nutre Cat Liberty",
+      "precio": "33.600"
+    },
+    {
+      "img": "/imgProductos/nutreCatHome.jpg",
+      "info": "Nutre Cat Home",
+      "precio": "33.600"
+    },
+    {
+      "img": "/imgProductos/nutrissCarne.jpg",
+      "info": "Nutriss Carne",
+      "precio": "33.600"
+    },
+    {
+      "img": "/imgProductos/nutrissPollo.jpeg",
+      "info": "Nutriss Pollo",
+      "precio": "33.600"
+    },
+    {
+      "img": "/imgProductos/purina-felix.png",
+      "info": "Purina felix",
+      "precio": "33.600"
+    },
+    {
+      "img": "/imgProductos/chunkyGatosCordero.png",
+      "info": "Chunky Gatos Cor.",
+      "precio": "33.600"
+    },
+    {
+      "img": "/imgProductos/monello.png",
+      "info": "Monello",
+      "precio": "33.600"
+    }
+  ]
+}
+
+

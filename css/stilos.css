@@ -18,10 +18,11 @@ body{
     background-attachment: fixed;
     background-size: 100%;
 }
+
 /*-----------estilos header ----------- */
 .header{
     width: 100%;
-    height: 10px;
+    
 }
 .logo{
     width: 10%;
@@ -30,12 +31,12 @@ body{
 .menu{
     position: absolute;
     width: 50%;
-    left: 600px;
+    left: 30%;
     top: 40px;
 }
 .menu li{ 
     font-family: 'Gloria Hallelujah', cursive;     
-    color: var(--color-blanco);    
+    color: var(--color-negro);    
     margin-right: 5%;
     list-style: none;
     font-size: 22px;    
@@ -44,18 +45,23 @@ body{
     cursor: pointer; 
 }
 .menu li:hover {
-    color: var(--color-gris);    
+    color: var(--color-aguaMarina);    
 }
 .resaltar{    
     background: var(--color-amarillo);
 }
-.carrito img{
+.carrito{
     position: absolute;
-    width: 6%;
-    left: 1230px;
-    top: 20px;
-    cursor: pointer;
+    left: 80%;
+    width: 8%;
+    top: 5%;
+    
 }
+.carrito img{    
+    width: 100%;
+    cursor: pointer;    
+}
+
 /* ------------------estilos banner------------------ */
 .banner{       
     position: absolute;
